@@ -16,7 +16,7 @@ Mariana Victoria Souza Coimbra
 
 ![](https://lh3.googleusercontent.com/rd0htBpzWI1n4yDUpnKcwXMrdW3YnmfNfQHs07juQ0s5EhmCIbJyFGGccWCunPG2Q2PoYFH9-HeyG00R0z8zqboin2HnR-2hUVbktyV9qAQ9O5FvKlu9R-4verG4T0kkvbU4tZnw)
 
-# Idéia inicial
+# Ideia inicial
 
 A fome é um dos principais problemas de escopo global ocasionado pela má distribuição dos recursos que temos disponíveis em todo mundo, existe alimento disponível para que não haja fome no planeta inteiro mas não existe distribuição igualitária. Um dos 17 objetivos das Nações Unidas no Brasil é acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover a agricultura sustentável.
 
