@@ -38,7 +38,7 @@ O sistema mostra um quadro com as áreas que estão sendo cultivadas e um breve 
 
 ## Sugestões de cultivo a partir de determinado atributo
 
-O usuário recebe sugestões do que fazer com o cultivo de acordo com determinados atributos que o mesmo tem, por exemplo, ao plantar alface, lhe é sugerido que ele deve fornecer água para a planta X vezes durante a semana. Um exemplo de atributo importantíssimo é a localização, por exemplo, o mesmo alface citado anteriormente pode precisar de mais água se for cultivado em uma localização de temperatura mais elevada. Essas sugestões serão realizadas por outros usuários do sistema que possuem experiência com o cultivo de plantas específicas.
+O usuário recebe sugestões do que fazer com o cultivo de acordo com determinados atributos que o mesmo tem, por exemplo, ao plantar alface, lhe é sugerido que ele deve fornecer água para a planta X vezes durante a semana. Um exemplo de atributo importantíssimo é a localização, por exemplo, o mesmo alface citado anteriormente pode precisar de mais água se for cultivado em uma determinada localização. Essas sugestões serão realizadas por outros usuários do sistema que possuem experiência com o cultivo de plantas específicas.
 
 ## O usuário é notificado sobre ações a serem tomadas no cultivo
 
